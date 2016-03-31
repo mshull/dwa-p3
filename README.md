@@ -10,7 +10,7 @@
 This project contains my data generator toolset. It consists of a lorem ipsum text generator, user data generator, and password generator. Server-side validation was added to verify required data was entered and of the correct type. As an optional addition I integrated the P2 password generator into the application, leveraging the Laravel controller and  validation functionality.
 
 ## Demo
-[https://youtu.be/PPVC78x07Ic](https://youtu.be/PPVC78x07Ic)
+[https://youtu.be/1Ud_FMfQkbU](https://youtu.be/1Ud_FMfQkbU)
 
 ## Details for Teaching Team
 
